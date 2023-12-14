@@ -1,16 +1,16 @@
 
 # Site settings
-title: Paul E. Soto
-name: Paul E. Soto
+title: Shuya Liu
+name: Shuya Liu
 subtitle:  Economist
-email: paul.e.soto@frb.gov
+email: lsyragnarok@gmail.com
 description: >
    Economist
 baseurl: ""
-url: "https://pesoto.github.io/"
-github_username:  pesoto
-disqus_baseurl: "https://pesoto.github.io/"
-disqus_shortname: https-pesoto-github-io
+url: "https://syuuuga.github.io/"
+github_username:  syuuuga
+disqus_baseurl: "https://syuuuga.github.io/"
+disqus_shortname: https-syuuuga-github-io
 permalink: :title
 google-site-verification: "EBNpnv4GiHJTmePgRajamxrYtJnc6WlqDyWUITDaSMo"
 
@@ -25,7 +25,7 @@ defaults:
     scope:
       path: ""
     values:
-      author: "Paul E. Soto"
+      author: "Shuya Liu"
 
 
 
@@ -40,8 +40,8 @@ gems:
 social:
   - name: GitHub
     icon: github
-    username: pesoto
-    url: https://github.com/pesoto
+    username: syuuuga
+    url: https://github.com/syuuuga
     desc: Fork me on GitHub
     share: false
 
