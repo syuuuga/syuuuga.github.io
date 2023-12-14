@@ -2,10 +2,7 @@
 # Site settings
 title: Shuya Liu
 name: Shuya Liu
-# subtitle:  Economist
 email: lsyragnarok@gmail.com
-# description: >
-   Economist
 baseurl: ""
 url: "https://syuuuga.github.io/"
 github_username:  syuuuga
