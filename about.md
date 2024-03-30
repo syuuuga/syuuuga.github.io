@@ -3,5 +3,9 @@ layout: page
 title: About Me
 permalink: /about/
 ---
-I am a senior economist at the Federal Reserve Board. I also work as an adjunct professor at the University of Maryland in the Robert H. Smith School of Business where I have taught classes on Text Mining and Financial Analytics. Previously, from 2018-2022, I was a financial economist at the Federal Deposit Insurance Corporate (FDIC) where I conducted banking research and developed models to support FDIC operations. In July 2018, I finished my PhD in Economics from the Universitat Pompeu Fabra and Barcelona School of Economics. I started my academic career in mathematics, with a Bachelor's degree in Applied Mathematics from University of California, Berkeley. During my PhD, I spent time working alongside other central banks through an 8 month visit in Germany at the Deutsche Bundesbank and research projects with the Banco de la Rep&uacute;blica of Colombia. Previously, I did internships in the credit department of Moody's Analytics and in various investment funds. Outside of economics and finance, I like learning about natural language processing, innovations in machine learning, Brazilian Jiu Jitsu, and improv comedy.   
+我是一个很有责任感的人，在大学期间我担任F2003302班长以及F2102134班级助理，并且我乐于助人，为了利用自己的技术帮助同学，我加入造物俱乐部运营管理部，担任了长达四年的学生创新中心3D打印中心助管；为了传达同学们的意见建议，我担任了电子信息与电气工程学院学生代表；为了更好地造福社会，我于2021年加入iSee社会实践训练营并成为了上海马拉松志愿者。
+
+<br>我也是一个生活非常丰富的人。我很喜欢语言学习，除了英语的学习之外，还自学了日语，并且拿到了N2证书。同时我自小就很喜欢音乐和绘画，在小学期间就考得了小提琴业余九级证书。
+
+<br>因为对动漫和电影感兴趣，大学期间尝试接触了计算机视觉方面的知识，也学会了页面制作和视频剪辑，目前对影视特效产生了兴趣。 
 <br>
