@@ -6,27 +6,26 @@ permalink: /research/
 
 <font size="+2"><strong> Projects</strong></font><br>
 <strong><a href="https://www.federalreserve.gov/econres/feds/files/2023021pap.pdf">Real-Time Diagnostic System for Medical Imaging Based on Deep Learning</a></strong><br><b>Source: </b>[IPP25061] Innovation Project of "Undergraduate Innovation and Entrepreneurship Training Program" of Shanghai Jiao Tong University in 2023<br><b>Achievements: 
-1. </b>Recognized as an innovation project of the "National Undergraduate Innovation and Entrepreneurship Training Program" of Shanghai Jiao Tong University in 2023. 
-<b>2. </b>Awarded the Extraordinary Prize in the 5th Shanghai Jiao Tong University - Weining Health Smart Medical Challenge (First Place in the University Group) in 2023.<br>
+<br>1. </b>Recognized as an innovation project of the "National Undergraduate Innovation and Entrepreneurship Training Program" of Shanghai Jiao Tong University in 2023. 
+<br><b>2. </b>Awarded the Extraordinary Prize in the 5th Shanghai Jiao Tong University - Weining Health Smart Medical Challenge (First Place in the University Group) in 2023.<br>
 <p style="text-align:justify"><b>Real-time diagnostic system for large-scale pathological images:</b>
-<br>The real-time diagnostic system utilizes the RandStainNA model and the ResNet18 network developed in the laboratory. Classification experiments are conducted on a nine-class dataset of colorectal cancer, and the results of the experiments are visualized.
-<br>In the top-left corner, pathological images are inputted, and upon clicking the processing button, different classification results for each image block are annotated with different colors. In the bottom-left corner, a pie chart is utilized to display the real-time quantities and proportions of each classification. In the central area, zoomed-in results of small image blocks, confidence probabilities of classifications, and distributions of image blocks classified into specific categories are displayed in real-time.
+<br>The real-time diagnostic system employs the RandStainNA model and ResNet18 network for large-scale pathological images. Experiments are conducted on a nine-class colorectal cancer dataset, with results visualized. Pathological images are inputted in the top-left corner, and upon processing, classification results for each block are annotated with colors. A pie chart in the bottom-left corner shows real-time quantities and proportions of each classification. In the central area, zoomed-in results, confidence probabilities, and distributions of image blocks into specific categories are displayed in real-time.
 <br>The system utilizes various visualization tools to dynamically showcase the neural network processing progress, assisting clinicians in clinical diagnosis.
 <figure style="text-align: center;">
   <img src="/images/EffectDiagram_Real-timeDiagnosisSystem.png" alt="EffectDiagram_Real-timeDiagnosisSystem" style="	box-shadow:rgba(0,0,0,0.2) 0 1px 5px 0px;">
   <figcaption>Effect Diagram of Real-time Diagnosis System</figcaption>
 </figure>
-<br><b><i>高通量甲状腺快速诊断系统：</i></b>
-<br>在整体的设计中，我们采用结构化的设计方法，将软件系统分解成两个功能模块，分别为细胞核分割模块和甲状腺分级预测模块，并通过各类可视化图表来描述系统的组织结构。
-<br>在细胞核分割模块中：首先选择一张甲状腺病理图像，我们可以看到内部有效细胞很少，有大量的空白区域，因此我们需要事先筛选出有效的细胞区域。点击细胞分割按钮，我们首先进行细胞核分割的操作：点击图中红色小块显示放大20倍后的效果图，再点击分割按钮进行细胞核分割，不同颜色的小块代表不同的细胞核。左下角显示核分割的具体信息。我们对病理图像的每一块区域都可以做如上处理，最终得到整张病理图像所对应的细胞密度热力图。根据细胞密度热力图，我们只需要针对细胞密度高的区域进行神经网络分析。
+<br><b><i>High-Throughput Thyroid Rapid Diagnostic System:</i></b>
+<br>In the overall design: We adopt a structured approach, decomposing the software system into two functional modules: the nucleus segmentation module and the thyroid grading prediction module. The organizational structure of the system is described through various types of visualization charts.
+<br>In the nucleus segmentation module: Upon selecting a thyroid pathological image, we identify regions of viable cells amidst blank areas. Clicking the cell segmentation button initiates nucleus segmentation, where different-colored blocks represent nuclei. Specific information is displayed, and this process is repeated for each region, resulting in a heatmap of cell density for the entire image. Neural network analysis is then focused on high-density regions.
 <figure style="text-align: center;">
-  <img src="/images/高通量甲状腺快速诊断系统：细胞核分割模块.png" alt="高通量甲状腺快速诊断系统：细胞核分割模块">
+  <img src="/images/高通量甲状腺快速诊断系统：细胞核分割模块.png" alt="高通量甲状腺快速诊断系统：细胞核分割模块" style="	box-shadow:rgba(0,0,0,0.2) 0 1px 5px 0px;">
   <figcaption>高通量甲状腺快速诊断系统：细胞核分割模块</figcaption>
 </figure>
 <br>在甲状腺分级预测模块中：点击处理按钮，我们可以自由拖动和缩放甲状腺分级预测的结果。左下角显示每个分类所所对应的细胞的数量：分级从1到6级严重程度递增，6级可预测为甲状腺癌。点击图中不同位置，在右侧可以查看对应位置放大20倍后的原始图像以及该位置被划分成1到6级分别对应的可能性。
 <br> 
 <figure style="text-align: center;">
-  <img src="/images/高通量甲状腺快速诊断系统：甲状腺分级预测模块.png" alt="高通量甲状腺快速诊断系统：甲状腺分级预测模块">
+  <img src="/images/高通量甲状腺快速诊断系统：甲状腺分级预测模块.png" alt="高通量甲状腺快速诊断系统：甲状腺分级预测模块" style="	box-shadow:rgba(0,0,0,0.2) 0 1px 5px 0px;">
   <figcaption>高通量甲状腺快速诊断系统：甲状腺分级预测模块</figcaption>
 </figure>
 </p>
@@ -37,7 +36,7 @@ permalink: /research/
 <br><b><i>挑战1.2: </i></b>请在黑灰产网络资产图谱数据集中挖掘不少于五个网络资产子图（与挑战1.1不同的子图）；识别每个子图中的核心网络资产和关键链路；用图表的形式呈现结果并简要分析每个子图对应的黑灰产团伙的网络运作机制。
 <br> 
 <figure style="text-align: center;">
-  <img src="/images/数据可视化与可视分析图.png" alt="数据可视化与可视分析图">
+  <img src="/images/数据可视化与可视分析图.png" alt="数据可视化与可视分析图" style="	box-shadow:rgba(0,0,0,0.2) 0 1px 5px 0px;">
   <figcaption>ChinaVis Data Challenge 2022 - mini challenge 1</figcaption>
 </figure>
 </p>
@@ -48,12 +47,12 @@ permalink: /research/
 与糖尿病相关的眼病被称为糖尿病视网膜病变（DR），是导致50岁以下人群视力丧失的主要原因。其可通过视网膜病变的存在来诊断，如微动脉瘤（MA）、视网膜内微血管异常（IRMA），非融合区（NPA）和新生血管化（NV）。基于MICCAI 2022图像分析挑战赛中DRAC2022 Challenge的数据集，DR病变被分为视网膜内微血管异常（IRMA）、非融合区（NPA）和新生血管化（NV）三大类。
 <br>对不同的类别，本项目分别通过颜色抖动对图像进行增强，并通过UNet++神经网络实现了超广角OCTA图像中的病变分割。本项目在消融实验中对比了以UNet和UNet++作为训练网络，以Jaccard和Dice作为损失函数，和基于不同学习率调整策略的实现效果，经权衡后得到最终配置。我们的优势在于对不同网络和损失函数的选择具有实验依据，最终也获得了良好的图像分割效果。
 <figure style="text-align: center;">
-  <img src="/images/数字图像处理比赛图.png" alt="MICCAI 2022图像分析挑战赛">
+  <img src="/images/数字图像处理比赛图.png" alt="MICCAI 2022图像分析挑战赛" style="	box-shadow:rgba(0,0,0,0.2) 0 1px 5px 0px;">
   <figcaption>MICCAI 2022图像分析挑战赛</figcaption>
 </figure>
 <br>
 <figure style="text-align: center;">
-  <img src="/images/数字图像处理结果图.png" alt="在DRAC挑战赛网站提交结果排行（第4名为本组）">
+  <img src="/images/数字图像处理结果图.png" alt="在DRAC挑战赛网站提交结果排行（第4名为本组）" style="	box-shadow:rgba(0,0,0,0.2) 0 1px 5px 0px;">
   <figcaption>在DRAC挑战赛网站提交结果排行（第4名为本组）</figcaption>
 </figure>
 </p>
@@ -63,7 +62,7 @@ permalink: /research/
 <p style="text-align:justify"><b><i>实时光线追踪 </i></b>我们的主要任务是实现实时光线追踪，对于包含噪声的帧的降噪。我们循序渐进地通过三个步骤对一段光追动画进行降噪。第一步我们通过联合双边滤波实现对于单帧图像的降噪；第二步我们计算motion-vector找到从当前帧到上一帧的信息；第三步我们通过累计帧间信息按照时序对整个动画进一步降噪。除此之外我们还完成了选做的a-trous wavelet加速单帧降噪的算法。最终我们实现了对于一段光追动画的实时降噪。
 <br> 
 <figure style="text-align: center;">
-  <img src="/images/实时光追效果图.png" alt="实时光线追踪效果图">
+  <img src="/images/实时光追效果图.png" alt="实时光线追踪效果图" style="	box-shadow:rgba(0,0,0,0.2) 0 1px 5px 0px;">
   <figcaption>实时光线追踪效果图</figcaption>
 </figure>
 </p>
@@ -75,7 +74,7 @@ permalink: /research/
 <p style="text-align:justify"><b>小车设计</b>
 <br> 
 <figure style="text-align: center;">
-  <img src="/images/SW.png" alt="SW实现小车设计图">
+  <img src="/images/SW.png" alt="SW实现小车设计图" style="	box-shadow:rgba(0,0,0,0.2) 0 1px 5px 0px;">
   <figcaption>SW实现小车设计图</figcaption>
 </figure>
 </p>
