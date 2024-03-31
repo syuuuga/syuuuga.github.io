@@ -3,9 +3,9 @@ layout: page
 title: About Me
 permalink: /about/
 ---
-我是一个很有责任感的人，在大学期间我担任F2003302班长以及F2102134班级助理，并且我乐于助人，为了利用自己的技术帮助同学，我加入造物俱乐部运营管理部，担任了长达四年的学生创新中心3D打印中心助管；为了传达同学们的意见建议，我担任了电子信息与电气工程学院学生代表；为了更好地造福社会，我于2021年加入iSee社会实践训练营并成为了上海马拉松志愿者。
+I am a highly responsible individual. During my university years, I served as the class monitor for F2003302 and as the assistant for the F2102134 class. To utilize my skills in helping classmates, I joined the operations management department of the Makers Club, where I served as an assistant manager for the 3D printing center for four years. Additionally, to convey students' opinions and suggestions, I served as a student representative for the School of Electronic Information and Electrical Engineering. Moreover, to contribute to society, I joined the iSee Social Practice Training Camp in 2021 and volunteered for the Shanghai Marathon.
 
-<br>我也是一个生活非常丰富的人。我很喜欢语言学习，除了英语的学习之外，还自学了日语，并且拿到了N2证书。同时我自小就很喜欢音乐和绘画，在小学期间就考得了小提琴业余九级证书。
+<br>I lead a diverse life. I have a keen interest in language learning and, apart from studying English, I self-studied Japanese and obtained the N2 certificate. Furthermore, I have had a passion for music and painting since childhood and obtained a Level 9 certificate in violin during primary school.
 
-<br>因为对动漫和电影感兴趣，大学期间尝试接触了计算机视觉方面的知识，也学会了页面制作和视频剪辑，目前对影视特效产生了兴趣。 
+<br>Due to my interest in anime and movies, I ventured into computer vision during my university years. I also learned webpage design and video editing, sparking my interest in visual effects in film and television. 
 <br>
